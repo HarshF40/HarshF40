@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai/ML,Game development,web development..etc.
 - 🌱 I’m currently learning C++
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Anxiously Focused
+- ⚡ Fun fact: love to code
 
 <!---
 HarshF40/HarshF40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
