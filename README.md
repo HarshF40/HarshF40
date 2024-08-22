@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/gaonkerharsh" target="blank"><img src="https://img.shields.io/twitter/follow/gaonkerharsh?logo=twitter&style=for-the-badge" alt="gaonkerharsh" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
-
 - 📫 How to reach me **gaonkarharsh3247@gmail.com**
 
 - ⚡ Fun fact **I love CODING....**
