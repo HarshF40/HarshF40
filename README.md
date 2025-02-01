@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Gaonker</h1>
-<h3 align="center">Aspiring Programmer from India</h3>
+<h1 align="center">01101000 01101001</h1>
+<h3 align="center">Reflecting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshf40&label=Profile%20views&color=00ff00&style=plastic" alt="harshf40" /> </p>
 
@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **Ai/Ml Development**
 
 - 📫 How to reach me **gaonkarharsh3247@gmail.com**
-
-- ⚡ Fun fact **I love codinggggg....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
