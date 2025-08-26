@@ -6,8 +6,11 @@
 
 -> Languages: C/C++, Python, Kotlin, HTML and Javascript<br>
 
--> Frameworks / Libraries: Frontend[ReactJS], Backend[ExpressJS], Machine-Learning[Numpy, Pandas, Sci-kit-learn, Matplotlib, Seaborn, Plotly], Socket programming[C, Kotlin]<br>
+-> Frameworks / Libraries: Frontend [ReactJS], 
+                           Backend [ExpressJS], 
+                           Machine-Learning [Numpy, Pandas, Sci-kit-learn, Matplotlib, Seaborn, Plotly], 
+                           Socket programming [C, Kotlin]<br>
 
 -> Others: Linux (Arch)<br>
 
-Last updated: 26 / 08 / 2025
+Last updated: 27 / 08 / 2025
