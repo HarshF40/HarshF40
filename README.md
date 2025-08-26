@@ -4,10 +4,10 @@
 
 -> Learning Machine learning and Android development<br>
 
--> Languages: C/C++, Python, HTML and Javascript<br>
+-> Languages: C/C++, Python, Kotlin, HTML and Javascript<br>
 
 -> Frameworks / Libraries: Frontend[ReactJS], Backend[ExpressJS], Machine-Learning[Numpy, Pandas, Sci-kit-learn, Matplotlib, Seaborn, Plotly]<br>
 
 -> Others: Linux (Arch)<br>
 
-Last updated: 11 / 08 / 2025
+Last updated: 26 / 08 / 2025
